@@ -5,7 +5,7 @@
 https://mirageye-demo.cryptonite.live/
 
 ## NOTE:
-The predictions might take some time to load on the website. Hence, we have added a recording of the working of the website and also sample outputs for each feature(ins samples.pdf).
+The predictions might take some time to load on the website. Hence, we have added a recording of the working of the website and also sample outputs for each feature(in samples.pdf).
 ### Team:
 Gurmann Ajmani 
 Avanish Srivats
