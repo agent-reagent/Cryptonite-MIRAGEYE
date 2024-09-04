@@ -9,6 +9,7 @@ The predictions might take some time to load on the website. Hence, we have adde
 ### Team:
 Gurmann Ajmani 
 Avanish Srivats
+Rupak Banerjee
 ### Title of project: 
 MIRAGEYE-AI-Driven Respiratory Health Management System
 
